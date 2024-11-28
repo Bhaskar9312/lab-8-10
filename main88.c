@@ -1,6 +1,4 @@
-//
-// Created by dheeraj on 14/11/24.
-//
+
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
